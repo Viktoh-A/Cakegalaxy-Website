@@ -1,0 +1,9 @@
+a.para{ color: inherit; text-decoration: underline }
+a.para:hover{ color: #a5440c; }
+.bgcolo{ background: #a5440c}
+.txcolo{ color:black}
+.droper{color: #666; box-shadow: none; margin-right:2.5%; border-radius:inherit; 
+    margin: 10px 2% 10px 0px;}
+.droper:focus{ box-shadow:none; border:#999}
+.margino { margin:4px;}
+/* .hide{display: none} */
